@@ -1,0 +1,9 @@
+Your new database is now ready to use.
+
+To connect to your database use these details
+
+Server: sql7.freemysqlhosting.net
+Name: sql7243238
+Username: sql7243238
+Password: YvuaLJFv5k
+Port number: 3306
